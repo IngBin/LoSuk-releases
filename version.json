@@ -1,5 +1,5 @@
 {
   "version": "1.1.1",
-  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.1.0/LoSuk.exe",
-  "notes": "업데이트 배너 테스트용 (실제 파일은 v1.1.0과 동일)"
+  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.1.1/LoSuk.exe",
+  "notes": "업데이트 배너에 현재/최신 버전 표기, 상태바에 현재 버전 표시"
 }
