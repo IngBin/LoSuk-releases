@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.1.1/LoSuk.exe",
-  "notes": "업데이트 배너에 현재/최신 버전 표기, 상태바에 현재 버전 표시"
+  "version": "1.2.0",
+  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.2.0/LoSuk.exe",
+  "notes": "휴식게이지(자동 적립·소모), 입장권/열쇠/티켓 숫자 직접 입력, 클래스 아이콘 표시"
 }
