@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
-  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.4.0/LoSuk.exe",
-  "notes": "API 호출 잔여 표시, 개인 API 키 입력·발급 안내, 캐릭터 카드 줄바꿈·접기"
+  "version": "1.4.1",
+  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.4.1/LoSuk.exe",
+  "notes": "API 호출 한도 초과 자동 처리·안내, 개인 API 키 발급 유도 강화"
 }
