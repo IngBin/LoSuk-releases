@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
-  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.5.0/LoSuk.exe",
-  "notes": "주간 골드 6캐릭 제한 — 원정대 그룹별 골드 캐릭터 지정, 그룹 헤더·별명, 골드 획득/제외 칩 추가"
+  "version": "1.5.1",
+  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.5.1/LoSuk.exe",
+  "notes": "릴레이 서버 추가 — 마리샵 데이터를 릴레이 서버 경유로 조회 (안정성 향상)"
 }
