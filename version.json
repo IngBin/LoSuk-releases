@@ -1,5 +1,5 @@
 {
-  "version": "1.5.1",
-  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.5.1/LoSuk.exe",
-  "notes": "릴레이 서버 추가 — 마리샵 데이터를 릴레이 서버 경유로 조회 (안정성 향상)"
+  "version": "1.5.2",
+  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.5.2/LoSuk.exe",
+  "notes": "크리스탈 시세 조회 방식 개선 (릴레이 서버 경유)"
 }
