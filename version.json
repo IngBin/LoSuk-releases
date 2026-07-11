@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
-  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.7.0/LoSuk.exe",
-  "notes": "마리샵 아이템 이미지, 아이콘 로컬 캐시, 더보기 효율표 아크 그리드 코어 표기"
+  "version": "1.7.1",
+  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.7.1/LoSuk.exe",
+  "notes": "마리샵 3회차(현재+이전 2회차) 회차별 표시"
 }
