@@ -1,5 +1,5 @@
 {
-  "version": "1.5.2",
-  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.5.2/LoSuk.exe",
-  "notes": "크리스탈 시세 조회 방식 개선 (릴레이 서버 경유)"
+  "version": "1.6.0",
+  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.6.0/LoSuk.exe",
+  "notes": "카드 글자 확대·가독성 개선, 더보기 효율표에 고유보상 별도 표기, 피해량컷(구 딜컷) 개편, 드래그 이동·자동 스크롤 개선"
 }
