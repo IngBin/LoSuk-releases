@@ -1,5 +1,5 @@
 {
-  "version": "1.8.0",
-  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.8.0/LoSuk.exe",
-  "notes": "서버별 분리·골드 자동정렬·디자인 체크박스·정보 새로고침 등"
+  "version": "1.9.0",
+  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.9.0/LoSuk.exe",
+  "notes": "경매 탭 전면 개편 — 분배 계산기 통합, 악세 옵션/각인서 자동완성"
 }
