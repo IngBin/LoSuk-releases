@@ -1,5 +1,5 @@
 {
-  "version": "1.7.2",
-  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.7.2/LoSuk.exe",
-  "notes": "마리샵 귀속 아이템(빙하의 숨결 등) 시세 조회 수정"
+  "version": "1.8.0",
+  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.8.0/LoSuk.exe",
+  "notes": "서버별 분리·골드 자동정렬·디자인 체크박스·정보 새로고침 등"
 }
