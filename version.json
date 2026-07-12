@@ -1,5 +1,5 @@
 {
-  "version": "1.10.3",
-  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.10.3/LoSuk.exe",
-  "notes": "카드 길이 축소 — 슬림 밀도 + 완료 섹션 자동 접기"
+  "version": "1.11.0",
+  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.11.0/LoSuk.exe",
+  "notes": "지옥 보상 효율표 추가(낙원 탭) — 레벨/단계/풍요 선택, 실시간 시세"
 }
