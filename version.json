@@ -1,5 +1,5 @@
 {
-  "version": "1.11.0",
-  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.11.0/LoSuk.exe",
-  "notes": "지옥 보상 효율표 추가(낙원 탭) — 레벨/단계/풍요 선택, 실시간 시세"
+  "version": "1.11.1",
+  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.11.1/LoSuk.exe",
+  "notes": "지옥 효율표 시세 보강 — 숨결 시세 반영, 거래소 미등록 재료 명확화"
 }
