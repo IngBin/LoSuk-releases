@@ -1,6 +1,6 @@
 {
-  "version": "1.11.4",
-  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.11.4/LoSuk.exe",
-  "notes": "자동 업데이트 안정화 — 업데이트 후 실행 안 되던 문제 수정(다운로드 검증·백업·롤백)",
-  "sha256": "442cb7f281069a9e7dfe5de02bbb7cabb89d2b61710355bc2aaa94a2575a3940"
+  "version": "1.11.5",
+  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.11.5/LoSuk.exe",
+  "notes": "실행 안 되던 문제 해결 — 단일파일에 WPF 네이티브 DLL 임베드",
+  "sha256": "e8e08cd5c4cb71448911f768b7dad02d3dc8931b427929d66625ef7565ea3bf2"
 }
