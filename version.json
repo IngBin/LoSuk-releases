@@ -1,5 +1,6 @@
 {
-  "version": "1.11.3",
-  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.11.3/LoSuk.exe",
-  "notes": "접기 버튼 정렬 + 주간 레이드 난이도 버튼화"
+  "version": "1.11.4",
+  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.11.4/LoSuk.exe",
+  "notes": "자동 업데이트 안정화 — 업데이트 후 실행 안 되던 문제 수정(다운로드 검증·백업·롤백)",
+  "sha256": "442cb7f281069a9e7dfe5de02bbb7cabb89d2b61710355bc2aaa94a2575a3940"
 }
