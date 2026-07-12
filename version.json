@@ -1,5 +1,5 @@
 {
-  "version": "1.10.0",
-  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.10.0/LoSuk.exe",
-  "notes": "드래그 자리 맞바꿈, 주간 레이드 이미지 UI, 캐릭터 이미지 표시"
+  "version": "1.10.1",
+  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.10.1/LoSuk.exe",
+  "notes": "일일·주간 컨텐츠 아이콘화 (카던 레벨별 아이콘 자동 전환)"
 }
