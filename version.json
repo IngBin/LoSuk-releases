@@ -1,5 +1,5 @@
 {
-  "version": "1.11.2",
-  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.11.2/LoSuk.exe",
-  "notes": "카드 접기 레이아웃 개선 — 접으면 아래 카드가 바로 위로 붙음"
+  "version": "1.11.3",
+  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v1.11.3/LoSuk.exe",
+  "notes": "접기 버튼 정렬 + 주간 레이드 난이도 버튼화"
 }
