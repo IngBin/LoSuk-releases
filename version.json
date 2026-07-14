@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0",
-  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v2.0.0/LoSuk.exe",
-  "notes": "안정화 릴리스 — 실행 안 되던 문제 해결, 자동 업데이트·저장 데이터 견고화",
-  "sha256": "d0eda0b4319171b4a431a32f6423fbb0fe8ec00c4b6569fa2b7d44cfaa27c215"
+  "version": "2.0.1",
+  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v2.0.1/LoSuk.exe",
+  "notes": "UI·기능 개선 — 레이드 카드/헤더 개편, 주간 골드 더보기 표시, 악세 검색 개편",
+  "sha256": "14f82051dfee9de691b513d098710b75ff9ef2bedd2fe4f912411ad61306d67d"
 }
