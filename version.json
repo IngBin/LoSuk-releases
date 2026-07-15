@@ -1,6 +1,6 @@
 {
-  "version": "2.0.1",
-  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v2.0.1/LoSuk.exe",
-  "notes": "UI·기능 개선 — 레이드 카드/헤더 개편, 주간 골드 더보기 표시, 악세 검색 개편",
-  "sha256": "14f82051dfee9de691b513d098710b75ff9ef2bedd2fe4f912411ad61306d67d"
+  "version": "2.1.0",
+  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v2.1.0/LoSuk.exe",
+  "notes": "생활 효율 탭 추가 — 6종 생활 효율을 거래소 실시간 시세로 계산(도약 시급순), 획득 개수 수정, 앱 아이콘",
+  "sha256": "92ddee48d755a6cd4dd25a35fdb69f5fd3f15d4fd2fbbafa807d577d67fa2e40"
 }
