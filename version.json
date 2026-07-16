@@ -1,6 +1,6 @@
 {
-  "version": "2.4.0",
-  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v2.4.0/LoSuk.exe",
-  "notes": "제작 탭 영지 효과 입력(제작비용 감소·활동력 감소) 반영, 레시피 이름에 재료 표시(융화 벌목/고고학, 요리 오레하/아비도스)",
-  "sha256": "81b9e579b3e3e1531f5b2dc55be155b4aee487f3e438690c338213fab1089281"
+  "version": "2.4.1",
+  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v2.4.1/LoSuk.exe",
+  "notes": "우측 상단 주간 골드 옆에 레이드 현황(예 4/18) 표시 — 골드 획득 지정 캐릭터 기준 자동 반영",
+  "sha256": "a4df8c1c19d1ed5a6d35b61ba8a1b86583382ac8c9fffc55cc1b0964f9723247"
 }
