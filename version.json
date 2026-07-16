@@ -1,6 +1,6 @@
 {
-  "version": "2.3.0",
-  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v2.3.0/LoSuk.exe",
-  "notes": "제작 탭 개편 — 융화/배템/기타 3그룹, 수류탄·부적·폭탄 추가, 도구 제작 부품 추가, 카드에 시세·활동력·재료 복원",
-  "sha256": "90d13e3d69ea163a672190187c9b93934cb09cce9824e1f061cb582754256061"
+  "version": "2.4.0",
+  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v2.4.0/LoSuk.exe",
+  "notes": "제작 탭 영지 효과 입력(제작비용 감소·활동력 감소) 반영, 레시피 이름에 재료 표시(융화 벌목/고고학, 요리 오레하/아비도스)",
+  "sha256": "81b9e579b3e3e1531f5b2dc55be155b4aee487f3e438690c338213fab1089281"
 }
