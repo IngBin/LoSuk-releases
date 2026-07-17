@@ -1,6 +1,6 @@
 {
-  "version": "2.4.1",
-  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v2.4.1/LoSuk.exe",
-  "notes": "우측 상단 주간 골드 옆에 레이드 현황(예 4/18) 표시 — 골드 획득 지정 캐릭터 기준 자동 반영",
-  "sha256": "a4df8c1c19d1ed5a6d35b61ba8a1b86583382ac8c9fffc55cc1b0964f9723247"
+  "version": "2.5.0",
+  "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v2.5.0/LoSuk.exe",
+  "notes": "지옥 풍요 계산 정정(풍요 상자 선택 시 기본 보상 x10), 선택 상자 택1 수정, 젬 시세 조회 복구, 거래 불가 보상 기준값 적용",
+  "sha256": "d7203df45e3f119291bff1ab3d615f842e07c5cfd81b6c48acdb90874b60adc2"
 }
