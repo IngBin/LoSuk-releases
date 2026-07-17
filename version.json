@@ -1,6 +1,6 @@
 {
-    "version":  "2.6.0",
-    "downloadUrl":  "https://github.com/IngBin/LoSuk-releases/releases/download/v2.6.0/LoSuk.exe",
-    "notes":  "어빌리티 스톤 시세를 경매장 실시간 조회로 교체(원아/각구 최저 즉구가 평균), 페온 환산 토글 추가(기본 꺼짐 — 켜면 어빌스톤 개당 9페온을 합산해 순위 재계산)",
-    "sha256":  "0396db95323d59cc34d9348b7e1330bd82753b8a2ad73cc17614397a3c26afd4"
+    "version":  "2.6.1",
+    "downloadUrl":  "https://github.com/IngBin/LoSuk-releases/releases/download/v2.6.1/LoSuk.exe",
+    "notes":  "지옥 보상 값 정정 — 천상 도전권 0→3,000 G, 팔찌를 열쇠 레벨별 등급으로(1640 유물 1,500 / 1700+ 고대 2,000)",
+    "sha256":  "bc6162a55209c204a5ffc2f4b245ce4d841e6c3f8cac91476c23131b4f5f8d08"
 }
