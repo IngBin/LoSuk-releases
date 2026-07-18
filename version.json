@@ -1,6 +1,6 @@
 {
-    "version":  "2.6.1",
-    "downloadUrl":  "https://github.com/IngBin/LoSuk-releases/releases/download/v2.6.1/LoSuk.exe",
-    "notes":  "지옥 보상 값 정정 — 천상 도전권 0→3,000 G, 팔찌를 열쇠 레벨별 등급으로(1640 유물 1,500 / 1700+ 고대 2,000)",
-    "sha256":  "bc6162a55209c204a5ffc2f4b245ce4d841e6c3f8cac91476c23131b4f5f8d08"
+    "version":  "2.7.0",
+    "downloadUrl":  "https://github.com/IngBin/LoSuk-releases/releases/download/v2.7.0/LoSuk.exe",
+    "notes":  "특수 재련 돌파석 가치 계산 — 지옥 탭에서 목표 장비를 고르면 순환/전이 돌파석 단가를 실시간 시세로 계산해 보상 순위에 반영",
+    "sha256":  "901f885f6c1a428b013bcae7eb8baf4212be698fc828d6a267721d204fe74dea"
 }
