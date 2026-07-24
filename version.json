@@ -1,6 +1,6 @@
 {
-    "version":  "2.9.2",
-    "downloadUrl":  "https://github.com/IngBin/LoSuk-releases/releases/download/v2.9.2/LoSuk.exe",
-    "notes":  "재련 탭 신설 — 구간 총비용·일반 재련 계산기·최대 비용·재료 제외 토글 / 주간 골드 3개 한도 수정 / 레이드 3회 시 자동 접기",
-    "sha256":  "6759ebd09c166e89bd5dcc01c5f77d5a312a7fd218cc254178db70381bb67146"
+    "version": "2.10.0",
+    "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v2.10.0/LoSuk.exe",
+    "notes": "재련 탭 개편 — 강수별 상세표 / 보유 재료 입력(부족분만 계산) / 숨결(용암·빙하) 사용 토글 / 구간 비용 주간 골드 환산 · 기본 세르카 무기",
+    "sha256": "b1d578ed157301fbfc67cfa454d225258392e122287e8c4bd9e10846ac565b6c"
 }
