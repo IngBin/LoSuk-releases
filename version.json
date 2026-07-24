@@ -1,6 +1,6 @@
 {
     "version": "2.10.0",
     "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v2.10.0/LoSuk.exe",
-    "notes": "재련 탭 개편 — 강수별 상세표 / 보유 재료 입력(부족분만 계산) / 숨결(용암·빙하) 사용 토글 / 구간 비용 주간 골드 환산 · 기본 세르카 무기",
-    "sha256": "b1d578ed157301fbfc67cfa454d225258392e122287e8c4bd9e10846ac565b6c"
+    "notes": "재련 탭 개편 — 재련 단계별 상세표 / 보유 재료 입력(부족분만 계산) / 숨결(용암·빙하) 사용 토글 / 구간 비용 주간 골드 환산 · 기본 세르카 무기",
+    "sha256": "818077b851b3ff093ffdebc85048cdbf655a4cec65292fd3453f1aae9ee61757"
 }
