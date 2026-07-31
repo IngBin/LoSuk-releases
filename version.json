@@ -1,6 +1,6 @@
 {
-    "version": "2.10.0",
-    "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v2.10.0/LoSuk.exe",
-    "notes": "재련 탭 개편 — 재련 단계별 상세표 / 보유 재료 입력(부족분만 계산) / 숨결(용암·빙하) 사용 토글 / 구간 비용 주간 골드 환산 · 기본 세르카 무기",
-    "sha256": "818077b851b3ff093ffdebc85048cdbf655a4cec65292fd3453f1aae9ee61757"
+    "version": "2.10.1",
+    "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v2.10.1/LoSuk.exe",
+    "notes": "낙원 탭 '풍요'를 여러 선택 상자에 동시 체크 가능 — 상자는 여전히 택1이라 순위·금액 계산은 그대로(어느 풍요 상자를 열지 비교용)",
+    "sha256": "a65575089a636fa101b29da5bb4e1d32dd5cf404809888f20e35c18950c7e346"
 }
