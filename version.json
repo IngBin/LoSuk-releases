@@ -1,6 +1,6 @@
 {
-    "version": "2.10.1",
-    "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v2.10.1/LoSuk.exe",
-    "notes": "낙원 탭 '풍요'를 여러 선택 상자에 동시 체크 가능 — 상자는 여전히 택1이라 순위·금액 계산은 그대로(어느 풍요 상자를 열지 비교용)",
-    "sha256": "a65575089a636fa101b29da5bb4e1d32dd5cf404809888f20e35c18950c7e346"
+    "version": "2.10.2",
+    "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v2.10.2/LoSuk.exe",
+    "notes": "낙원 탭 상단에 원정대 보유 합계(천상 입장권·지옥 열쇠) 표시 — 목록 캐릭터들의 개수를 각각 합산",
+    "sha256": "c3aeb84a736cd9a95ebb7061697d99f7e52f1f1070fbb351f9ee2cd45b7c19e6"
 }
