@@ -1,6 +1,6 @@
 {
-    "version": "2.10.2",
-    "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v2.10.2/LoSuk.exe",
-    "notes": "낙원 탭 상단에 원정대 보유 합계(천상 입장권·지옥 열쇠) 표시 — 목록 캐릭터들의 개수를 각각 합산",
-    "sha256": "c3aeb84a736cd9a95ebb7061697d99f7e52f1f1070fbb351f9ee2cd45b7c19e6"
+    "version": "2.10.3",
+    "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v2.10.3/LoSuk.exe",
+    "notes": "피해량컷 탭에 신규 그림자 레이드 벨가르딘(8인·2관문) 딜컷 추가 + 벨가르딘 배너 이미지",
+    "sha256": "db2d85d195b04bbb0448d8aa2363cf6cc0b398ff6ea2cb53b3d067a34f7f1a22"
 }
