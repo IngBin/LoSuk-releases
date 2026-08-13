@@ -1,6 +1,6 @@
 {
-    "version": "2.10.3",
-    "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v2.10.3/LoSuk.exe",
-    "notes": "피해량컷 탭에 신규 그림자 레이드 벨가르딘(8인·2관문) 딜컷 추가 + 벨가르딘 배너 이미지",
-    "sha256": "db2d85d195b04bbb0448d8aa2363cf6cc0b398ff6ea2cb53b3d067a34f7f1a22"
+    "version": "2.11.0",
+    "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v2.11.0/LoSuk.exe",
+    "notes": "레이드 클리어 표시 개선(카드 중앙 '던전 클리어' 스탬프) + 익명 사용 통계 집계 시작 — 실행 수만 익명으로 셉니다. 캐릭터·체크 상태·설정 등 개인 데이터는 서버로 전송하지 않습니다.",
+    "sha256": "a139abdf59d4598fc912ac41a982a05ea1bc56888fa7bb1289a9c3f04edbecc2"
 }
