@@ -1,6 +1,6 @@
 {
-    "version": "2.11.0",
-    "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v2.11.0/LoSuk.exe",
-    "notes": "레이드 클리어 표시 개선(카드 중앙 '던전 클리어' 스탬프) + 익명 사용 통계 집계 시작 — 실행 수만 익명으로 셉니다. 캐릭터·체크 상태·설정 등 개인 데이터는 서버로 전송하지 않습니다.",
-    "sha256": "a139abdf59d4598fc912ac41a982a05ea1bc56888fa7bb1289a9c3f04edbecc2"
+    "version": "2.11.1",
+    "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v2.11.1/LoSuk.exe",
+    "notes": "더보기 탭에 신규 그림자 레이드 벨가르딘(노말·하드·나이트메어)의 더보기 효율표를 추가했습니다. 관문별 클리어/더보기 보상을 실시간 시세로 손익 환산하고, 고유 재료(사령의 잔영/죽음의 손)와 아크 그리드 코어 지급 개수도 표시합니다.",
+    "sha256": "0b2e238528cf40bb114a8783ed1c580fda8f7d1f5766ddbf0ce14fb241a78bcb"
 }
