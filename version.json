@@ -1,6 +1,6 @@
 {
-    "version": "2.11.1",
-    "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v2.11.1/LoSuk.exe",
-    "notes": "더보기 탭에 신규 그림자 레이드 벨가르딘(노말·하드·나이트메어)의 더보기 효율표를 추가했습니다. 관문별 클리어/더보기 보상을 실시간 시세로 손익 환산하고, 고유 재료(사령의 잔영/죽음의 손)와 아크 그리드 코어 지급 개수도 표시합니다.",
-    "sha256": "0b2e238528cf40bb114a8783ed1c580fda8f7d1f5766ddbf0ce14fb241a78bcb"
+    "version": "2.11.2",
+    "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v2.11.2/LoSuk.exe",
+    "notes": "제작 탭 영지 효과(비용감소·활동력감소) 칸에 소수점 입력이 가능해졌습니다. 기타 그룹에 생활 도구 복원 키트를 추가해 개당 제작 원가를 보여주고, 마리샵 가격(크리스탈 시세 환산)과 비교해 제작 시 절약액과 활동력당 이익을 계산합니다.",
+    "sha256": "b875fec4a94f9dabb965730cf30a2ec68154e236c2339649507103a8daa152d4"
 }
