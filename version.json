@@ -1,6 +1,6 @@
 {
-    "version": "2.13.0",
-    "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v2.13.0/LoSuk.exe",
-    "notes": "크리스탈 시세를 외부 사이트 대신 관리자가 입력한 값으로 받아옵니다. 인게임 시세와 다르면 마리샵 탭 크리스탈 칸에 직접 입력하세요 — 직접 입력값은 내 PC에만 적용되고 새로고침해도 유지되며, '서버 값 사용'으로 되돌릴 수 있습니다.",
-    "sha256": "e65a189f04df42c2b778994589bf6e908284116edcbdfaeaa9e1b416efbcab99"
+    "version": "2.14.0",
+    "downloadUrl": "https://github.com/IngBin/LoSuk-releases/releases/download/v2.14.0/LoSuk.exe",
+    "notes": "⚠ 이번 버전부터 각자 API 키를 입력해야 합니다. 앱에 내장돼 있던 공용 API 키를 제거했습니다 — 개인 키를 저장하지 않았다면 업데이트 후 시세·캐릭터 정보가 나오지 않습니다. 숙제 탭 상단 'API 키 발급 후 사용' 옆 '발급 방법'을 따라 로스트아크 개발자 사이트에서 무료로 키를 발급받아(1~2분) 붙여넣고 'API 키 저장'을 누르세요.",
+    "sha256": "0900c19cca339a2cec7515d084d4109b1a6d511079ca24b3d05804cdd6c6a693"
 }
